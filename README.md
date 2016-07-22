@@ -2,10 +2,10 @@
 
 Algoritmo de convolucion escrito en Python
 
-![image](src/screenshots/cap1.png)
+![image](screenshots/cap1.png)
 
 
-![image](src/screenshots/cap2.png)
+![image](screenshots/cap2.png)
 
 
-![image](src/screenshots/cap3.png)
+![image](screenshots/cap3.png)
